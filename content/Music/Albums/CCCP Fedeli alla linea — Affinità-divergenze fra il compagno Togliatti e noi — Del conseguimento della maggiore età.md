@@ -1,0 +1,32 @@
+---
+title: "Affinità-divergenze fra il compagno Togliatti e noi — Del conseguimento della maggiore età"
+type: "album"
+creator: "CCCP Fedeli alla linea"
+identification: extracted
+status: unreviewed
+origin: telegram-archive
+processed: 2026-10-13
+tags:
+  - telegram-archive
+  - media/album
+sources:
+  - "[[Images/SmileyChat/2021-07-23_15-27-32_p38.jpg]]"
+---
+
+# Affinità-divergenze fra il compagno Togliatti e noi — Del conseguimento della maggiore età
+
+**Creator:** CCCP Fedeli alla linea
+
+## Source images
+
+![[Images/SmileyChat/2021-07-23_15-27-32_p38.jpg|600]]
+
+- [[Images/SmileyChat/2021-07-23_15-27-32_p38.jpg|2021-07-23_15-27-32_p38.jpg]] — ☻ ☻; 2021-07-23.
+
+## Identification
+
+- readable cover text / distinctive album cover
+
+Cover-based names are extracted candidates. Check the source image when confirming an edition or a less familiar cover.
+
+## My notes

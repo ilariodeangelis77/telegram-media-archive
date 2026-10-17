@@ -1,0 +1,35 @@
+---
+title: "An Awesome Wave"
+type: "album"
+creator: "alt-J"
+identification: extracted
+status: unreviewed
+origin: telegram-archive
+processed: 2026-10-13
+tags:
+  - telegram-archive
+  - media/album
+sources:
+  - "[[Images/SmileyChat/2021-07-23_15-27-32_p26.jpg]]"
+  - "[[Images/SmileyChat/2021-07-23_15-27-32_p31.jpg]]"
+---
+
+# An Awesome Wave
+
+**Creator:** alt-J
+
+## Source images
+
+![[Images/SmileyChat/2021-07-23_15-27-32_p26.jpg|600]]
+
+- [[Images/SmileyChat/2021-07-23_15-27-32_p26.jpg|2021-07-23_15-27-32_p26.jpg]] — ☻ ☻; 2021-07-23.
+- [[Images/SmileyChat/2021-07-23_15-27-32_p31.jpg|2021-07-23_15-27-32_p31.jpg]] — ☻ ☻; 2021-07-23.
+
+## Identification
+
+- readable cover text / distinctive album cover
+- visible title / original image
+
+Cover-based names are extracted candidates. Check the source image when confirming an edition or a less familiar cover.
+
+## My notes

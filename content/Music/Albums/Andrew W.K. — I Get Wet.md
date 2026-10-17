@@ -1,0 +1,32 @@
+---
+title: "I Get Wet"
+type: "album"
+creator: "Andrew W.K."
+identification: extracted
+status: unreviewed
+origin: telegram-archive
+processed: 2026-10-13
+tags:
+  - telegram-archive
+  - media/album
+sources:
+  - "[[Images/SmileyChat/2021-07-23_15-27-33_p74.jpg]]"
+---
+
+# I Get Wet
+
+**Creator:** Andrew W.K.
+
+## Source images
+
+![[Images/SmileyChat/2021-07-23_15-27-33_p74.jpg|600]]
+
+- [[Images/SmileyChat/2021-07-23_15-27-33_p74.jpg|2021-07-23_15-27-33_p74.jpg]] — ☻ ☻; 2021-07-23.
+
+## Identification
+
+- visible title / original image
+
+Cover-based names are extracted candidates. Check the source image when confirming an edition or a less familiar cover.
+
+## My notes

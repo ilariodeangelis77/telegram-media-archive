@@ -1,0 +1,35 @@
+---
+title: "From What Is Before"
+original_title: "From What Is Before"
+aliases:
+  - "From What Is Before"
+type: "film"
+creator: "Lav Diaz"
+identification: extracted
+status: portato
+imported_on: 2026-10-17
+origin: telegram-archive
+processed: 2026-10-13
+tags:
+  - telegram-archive
+  - media/film
+sources:
+  - "[[Images/SmileyChat/2022-05-17_17-35-02_p161.jpg]]"
+---
+
+# From What Is Before
+
+
+Nota già presente nel vault principale; conservata intatta.
+
+## Source images
+
+![[Images/SmileyChat/2022-05-17_17-35-02_p161.jpg|600]]
+
+- [[Images/SmileyChat/2022-05-17_17-35-02_p161.jpg|2022-05-17_17-35-02_p161.jpg]] — ☻ ☻; 2022-05-17.
+
+## Identification
+
+- visible title / original image
+
+## My notes

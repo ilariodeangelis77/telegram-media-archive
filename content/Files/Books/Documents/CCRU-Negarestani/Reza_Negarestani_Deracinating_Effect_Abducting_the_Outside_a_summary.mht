@@ -1,0 +1,886 @@
+From: <Saved by UnMHT Ver.8.0.0a16>
+Subject: Deracinating Effect: Abducting the Outside (a summary of the talk, part 1)
+Date: Mon, 20 Apr 2015 17:13:51 -0700
+MIME-Version: 1.0
+X-UnMHT-Save-State: Current-State
+Content-Type: multipart/related;
+	boundary="----=_Part_72EC01BA_843B6CA5.14CD952E695";
+	type="text/html"
+
+------=_Part_72EC01BA_843B6CA5.14CD952E695
+Content-Location: http://blog.urbanomic.com/cyclon/archives/2012/11/abducting_the_o.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8" /><link href=3D"data:image=
+/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACrElEQVQ4jWWS0St=
+zcRjH/TPuXFizN1xIb6240Ms7G5sL4fJwg8g/oJXUMmkorOQUF0xparbUVptaGWkkjqvNxuFnTp=
+3TOZrPe6F30i6e+j7Pxafv8+3bYLPZsNvttLa21k1bW1vd/v/mcDj45XDQYLPZeHp6Qtd13t/fE=
+UIghKBSqdS0ZVm8vb0hhEBVVSzL4uPjg94/f2iw2+1Uq1UCgQDhcJhcLkc8HqdYLDI7O0sgEODo=
+6AiA6elpFhYWWF9fB6D/798vAMD8/DwbGxuUSiXOz8/RdZ2hoSG8Xi+yLAMwPj6OJElMTU3VA4L=
+BIH6/n2w2Sy6XQwiBz+dDkiSWlpYAGB0dZWVlhf7+fgDcLtcXwDRNNE0jkUhwdnZW+zmRSFAul0=
+kkEmiaxunpKfF4nHw+/9OBrusAHB8fI4QAIBwOE4vFuLm54eDggGq1yuHhIZubmySTyZ8Ay7IwT=
+ZOOjg5OTk5qgKamJvb29shms2xvbzMxMcHn5ydOp5O7+3t8Xu93BrFYDEmSGB4eBiAajbK7u0tz=
+czPJZJK1tTXm5uYA6Orq4vLykiGf7wugaRqyLJPP55mcnERVVSKRCFdXV6RSKdLpNKZpEgqFkGW=
+ZnZ2drxf+hyiEIJPJ8PLyAkAmk6FYLPL8/EwqleL19RUARVGIRqMUCoX6DNxuNzMzMyiKQmNjI3=
+d3dzw+PuJ0OqlUKlxcXDAyMkI6nSYYDNYDIpEI3d3d+P1+enp6KJVK6LrO2NgYAKurq7UCPTw8f=
+ANaWloQQrC1tcXy8jKhUAifz8f19TWFQoG+vj5UVUVRFCRJYn9/n8XFxZ9F0jQNVVUxTRPDMCiX=
+y+i6jmEYNScAQghub28xDOPbQXt7O729vQwODuLxePB4PDXtdrtr2uVyMTAwgNfrre2/Ozv5Bzd=
+f7kLMeJXMAAAAAElFTkSuQmCC" rel=3D"shortcut icon" type=3D"image/png" />
+
+<meta content=3D"http://www.movabletype.org/" name=3D"generator" />
+<title>Deracinating Effect: Abducting the Outside (a summary of the talk, p=
+art 1)</title>
+
+<link href=3D"http://blog.urbanomic.com/cyclon/styles-site.css" rel=3D"styl=
+esheet" type=3D"text/css" />
+<link href=3D"http://blog.urbanomic.com/cyclon/index.rdf" rel=3D"alternate"=
+ title=3D"RSS" type=3D"application/rss+xml" />
+<link href=3D"http://blog.urbanomic.com/cyclon/atom.xml" rel=3D"alternate" =
+title=3D"Atom" type=3D"application/atom+xml" />
+
+<link href=3D"http://blog.urbanomic.com/cyclon/" rel=3D"start" title=3D"Hom=
+e" />
+
+<link href=3D"http://blog.urbanomic.com/cyclon/archives/2012/10/upcoming_ny=
+c_ev.html" rel=3D"prev" title=3D"Upcoming NYC events" />
+
+
+<link href=3D"http://blog.urbanomic.com/cyclon/archives/2013/01/the_topos_o=
+f_th.html" rel=3D"next" title=3D"The Topos of the Earth @ CUNY, The Center =
+for the Humanities" />
+
+<script language=3D"javascript" type=3D"text/javascript">
+<!--
+
+var HOST =3D 'blog.urbanomic.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie =3D name + "=3D" + escape(value) + (expires ? "; expires=
+=3D" + expires : "") + (path ? "; path=3D" + path : "") + (domain ? "; doma=
+in=3D" + domain : "") + (secure ? "secure" : "");
+    document.cookie =3D curCookie;
+}
+
+function getCookie (name) {
+    var prefix =3D name + '=3D';
+    var c =3D document.cookie;
+    var nullstring =3D '';
+    var cookieStartIndex =3D c.indexOf(prefix);
+    if (cookieStartIndex =3D=3D -1)
+        return nullstring;
+    var cookieEndIndex =3D c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex =3D=3D -1)
+        cookieEndIndex =3D c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEnd=
+Index));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie =3D name + "=3D" + ((path) ? "; path=3D" + path : "=
+") + ((domain) ? "; domain=3D" + domain : "") + "; expires=3DThu, 01-Jan-70=
+ 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base =3D new Date(0);
+    var skew =3D base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now =3D new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    now =3D now.toGMTString();
+    if (f.author !=3D undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email !=3D undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url !=3D undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value =3D '';
+    f.author.value =3D '';
+    f.url.value =3D '';
+}
+
+//-->
+</script>
+
+
+
+
+<!--
+<rdf:RDF xmlns=3D"http://web.resource.org/cc/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/"
+         xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about=3D"http://blog.urbanomic.com/cyclon/archives/2012/11/abduct=
+ing_the_o.html">
+<dc:title>Abducting the Outside (a summary of the talk, part 1)</dc:title>
+<dc:description>Here is brief and perfunctory summary of the overall trajec=
+tory of the recent NYC talk until the critique of ultra-normativity and an =
+introduction to acceleration as an epistemico-performative vector (the firs=
+t half of the talk as I recall). Ben Woodard at Speculative Heresy has alre=
+ady made an extensive post, so this is just to complement his: The talk sta=
+rted within the context of an introduction to a disenthralled account of th=
+e modern system of knowledge. Then the idea that we need to understand acce=
+leration&apos;s penchant for metis, catastrophic rearrangement of...</dc:de=
+scription>
+<dc:creator>Reza Negarestani</dc:creator>
+<dc:date>2012-11-23T02:17:23-05:00</dc:date>
+<license rdf:resource=3D"http://creativecommons.org/licenses/by-nc-nd/3.0/"=
+ />
+</Work>
+<License rdf:about=3D"http://creativecommons.org/licenses/by-nc-nd/3.0/">
+</License>
+</rdf:RDF>
+-->
+
+
+
+<base href=3D"http://blog.urbanomic.com/cyclon/archives/2012/11/" /></head>
+
+<body>
+
+<div id=3D"container-title">
+
+<div id=3D"banner">
+<h1><a href=3D"http://blog.urbanomic.com/cyclon/">Deracinating Effect</a></=
+h1>
+<h2>Close Encounters of the Fourth Kind with Reason</h2>
+</div>
+</div>
+
+<div id=3D"container">
+<br /><br />
+
+<div id=3D"nav">
+<a href=3D"http://blog.urbanomic.com/cyclon/about.html">about</a> | <a href=
+=3D"http://blog.urbanomic.com/cyclon/alliances.html">alliances</a> | <a hre=
+f=3D"http://blog.urbanomic.com/cyclon/armamentarium.html">armamentarium</a>=
+ | <a href=3D"http://blog.urbanomic.com/cyclon/texts.html">texts</a>
+</div>
+<br /><br />
+
+
+<div class=3D"content">
+
+<p align=3D"right">
+
+<a href=3D"http://blog.urbanomic.com/cyclon/archives/2012/10/upcoming_nyc_e=
+v.html">=C2=AB Upcoming NYC events</a> |
+
+<a href=3D"http://blog.urbanomic.com/cyclon/">Main</a>
+
+| <a href=3D"http://blog.urbanomic.com/cyclon/archives/2013/01/the_topos_of=
+_th.html">The Topos of the Earth @ CUNY, The Center for the Humanities =C2=
+=BB</a>
+
+</p>
+
+<h2>November 23, 2012</h2>
+
+<h3>Abducting the Outside (a summary of the talk, part 1)</h3>
+
+<p>Here is brief and perfunctory summary of the overall trajectory of the r=
+ecent NYC talk until the critique of ultra-normativity and an introduction =
+to acceleration as an epistemico-performative vector (the first half of the=
+ talk as I recall). <a href=3D"http://speculativeheresy.wordpress.com/2012/=
+11/21/notes-on-negarestanis-abducting-the-outside/">Ben Woodard at Speculat=
+ive Heresy</a> has already made an extensive post, so this is just to compl=
+ement his:</p>
+
+<p>The talk started within the context of an introduction to a disenthralle=
+d account of the modern system of knowledge. Then the idea that we need to =
+understand acceleration&#x27;s penchant for metis, catastrophic rearrangeme=
+nt of parameters responsible for the behavior of the system, manipulative a=
+ction, etc. within the modern system of knowledge and a terminalized trajec=
+tory of theoretical reason. If I remember correctly I suggested that when I=
+ frequently invoke references to the project of rationalism as the center o=
+f my emphasis, a couple of things need to be taken into account first: That=
+ for me a terminalized trajectory of reason does not have any necessity to =
+coincide with that of the reasonable. Nor does my prejudice for the modern =
+system of knowledge need to be understood within an analytical regime of kn=
+owledge. We are in a moment in history where we should prevent, at all cost=
+s, thought from becoming a vicious analytical attack dog that confuses its =
+short leash with rational fidelity and precision. In fact, once we unbind t=
+he scope of the rationalism project and terminalize the transcendental asym=
+ptocity of knowledge, we realize that the ambition of rationalism is to sev=
+er the purported alliance between reason and human and to accelerate the di=
+slocating and renegotiating power of the modern system of knowledge by whic=
+h the human is humiliated at each and every turn.</p>
+
+<p>Then I gave a summary of the structure of the talk. Rather than moving f=
+rom one point to another in a sequential manner, we began to examine a numb=
+er of seemingly dissociated thought pieces. These thought pieces were prese=
+nted as the elements of my introduction to the modern system of knowledge a=
+nd the possibility of a genuine project of inhumanism. The goal was to inte=
+grate these thought pieces into a coherent multi-frontal introduction throu=
+ghout the talk:</p>
+
+<p>1. Knowledge has an object but it asymptotically approaches its object v=
+ia concepts. Understanding the so-called deep or universal ecology of the c=
+oncept, that is, what is conception (both the conditioning of the concept b=
+y the concept-less space/exteriority and conceiving information into qualit=
+atively well-organized spaces, i.e. global-to-local and local-to-global adj=
+oints of conception), how does the theoretical reason approach the domain o=
+f the concept, what is the concept-space constituted of, how are concepts s=
+tabilized in a dynamic fashion, etc. To answer these questions, I talked ab=
+out the ontology of the concept which coincides with the epistemology of it=
+. We do not ask what the concept X looks like, or what it is (the classical=
+ ontological approach). Instead we ask how the concept X is conceived which=
+ basically leads us to another question, where is the concept X or where do=
+es the concept X subsist. To answer this question, we approached the concep=
+t as a locus (a local horizon) immersed within a generic medium (the extens=
+ion of the concept that ramifies into the global structure of knowledge). S=
+o the ultimate question following Mazzola is &#x27;where is the topos of th=
+e concept?&#x27; Again in order to tackle this question, we briefly examine=
+d how the topos of the concept is parametrized by its generic medium or con=
+cept-less space and how a topos-oriented analysis of the concept leads to w=
+hat we call a ramified path structure: The concept can be identified (i.e. =
+it can be conceived) via different alternative addresses or paths. This und=
+erstanding of the concept and the process of conception leads to a new inte=
+rpretation of knowledge as a navigation system of concept-spaces endowed wi=
+th universal orientation (i.e. all global-local paths, structures, levels o=
+f organization and layers of the concept should be navigated, the eleventh =
+commandment: &quot;if it (navigation) is possible, then it is mandatory&quo=
+t;). With all this, we started to talk about the local and global structure=
+s of the modern system of knowledge. So the first thought piece was to unde=
+rstand the valencies and imports of the modern system of knowledge through =
+an examination of the genesis of the concept (via gestures through which th=
+e concept-less space condition the stability of the concept), its deep or u=
+niversal ecology and how various modes of epistemic mediation and inference=
+ are identified by the overall methods or ways they navigate the global-loc=
+al topology of the concept.</p>
+
+<p>2. Mobilizing a trifurcating line of assault against (<i>a</i>) Land&#x2=
+7;s idea of machinic efficacy and a technological singularity or philosophy=
+ of inhumanism conditioned by this machinic efficacy (via Longo), (<em>b</e=
+m>) ultra-normative understanding of epistemology and variants of rigidifie=
+d accounts of epistemic methodologies and processes of inference (Brandom a=
+nd Brassier as possible examples); (<em>c</em>) axiomatic decelerationists =
+or variants of classical Marxism that I charged with local myopia (I really=
+ didn&#x27;t talk about this third category that much as we were short on t=
+ime. That was unfortunate!).</p>
+
+<p>3. Explaining Oresmean accelerationism as a classical example of how man=
+ipulative epistemology, catastrophic change of the parameters responsible f=
+or the behavior of the system, designated action by way of focalized destab=
+ilizing disequilibrium (which creates spaces of reason through dialectical =
+disequilibrium and disjunction), etc. produces a horizon of epistemic media=
+tion and a new methodology for navigating the deep or universal ecology of =
+the concept-space. (This we didn&#x27;t really talk about).</p>
+
+<p>4. Understanding acceleration as a vector of epistemic mediation or glob=
+al navigation of concept-spaces which is basically operates as an alternati=
+ve to ultra-normative approaches to epistemology. A form of metisocratic pr=
+oduction of knowledge and manipulative abductive inference.</p>
+
+<p>5. Rediscovering inhumanism as not only conditioned by but also the veri=
+table expression of the modern system of knowledge and the local-global nav=
+igation of its concept-spaces.</p>
+
+<p><b>Land and machinic efficacy</b>: We started to work on the genesis of =
+the machinic efficacy by way of examining its deep roots in certain forms o=
+f metaphysics and revolutions in mathematics and logics, namely, Fregean lo=
+gicism (derived from a Newtonian metaphysics of the absolute normativity) a=
+nd Hilbertian formalism (derived from Laplacian classical determinism and h=
+is famous conjecture). Both of these constitute the foundations of the work=
+s of Shannon and Turing. We examined how digitalization is a form of classi=
+cal determinism via the idea of approximation-perservation or digital round=
+ing (a form of perturbation-preserving system) that makes the machine effec=
+tive. Then we also discussed how the classical normativity -- what preserve=
+s the so-called reasonable core of reason -- as an absolute and super-ideal=
+ form of occurrence of the norm with regard to the variable or the locus of=
+ information (the concept) in the Fregean system does not change the variab=
+le according to a contingent trajectory but merely relocates it within a sp=
+ecific hence absolute space of norm over and over again. Then we moved to s=
+how what it means to be a digital machine and to be effective and mechaniza=
+ble in that sense. This we did by way of three key objections:</p>
+
+<p>1. Iteration fetishizes finitude and vice versa. The faster the iteratio=
+n, the faster the machine. Showing that iteration loop is simply a form of =
+determinism that is not able to unfold genuine epistemic encounters with di=
+fferent non-finite and contingent conceptions of time (it does not produce =
+intelligibility from a contingent universe). The so-called deterritorializi=
+ng speed of the machine is the outcome of its restricted ambit. Nothing is =
+deterritorializing nor special about the speed of a digital machine insofar=
+ as it merely repeats the regularities of a finite conception of time. And =
+that we have to seek alternatives for producing intelligibility not through=
+ computational iteration but by way of developing new conceptual frameworks=
+ for a non-iterative recursive theory. Finally, iteration constitutes the s=
+trongly metaphysical conceptual regime of computational algorithms. The new=
+ paradigm of the next machine should be furnished with epistemic encounters=
+ with interweavings and ramification of continuity and contingency (non-fin=
+ite conceptions of time).</p>
+
+<p>2. Discretization regime as the causal regime of computational algorithm=
+s. The regime of the discrete violates the first law of knowledge which is =
+the conservation of information principle. The geodetic principles of the p=
+hysical universe (namely, that of the continuum and Lagranian optimality) a=
+re sensitive to encoding. All information regarding geodetic continuities (=
+the law of the least action) of the physical domain and symmetry breakings =
+/ extended criticalities of the biological domain are lost in discretizatio=
+n (following Longo). Also the discrete cannot approach the universal space =
+or deep ecology of the concept insofar as the discrete does not use the inf=
+ormation regarding the generic space which parametrizes information and the=
+ topos of the concept. The discrete (causal) and the iterative (conceptual)=
+ regimes of the computational dynamics are responsible for the machinic eff=
+icacy but this efficacy mutilates the intelligible and prevents genuine con=
+ditions for the mobilization of the inhumanist drive of knowledge, namely, =
+encounters with different conceptions of time and space, normative improvis=
+ation, processing of information on the basis of the generic space that par=
+ametrizes them, contingent epistemic mediations and understanding of the la=
+ndscape of knowledge as interweavings of continuity and contingency. All of=
+ these effectuate as irreversible renegotiations and dislocations of the hu=
+man sphere. Capitalism investment on the so-called machinic efficacy and gl=
+obal digitalization, in this sense, is completely in line with its axiomati=
+c preservation of the local ambit of thought and restricted knowledge gener=
+ation (to degenerate the true scope of the global further and further). </p>
+
+<p>Universe as a computer is a cheap metaphor at best, and at worst steps b=
+ackward in the project of knowledge. The idea that the limits of computatio=
+n (and accordingly, machinic efficacy) demarcate the limits of knowledge (a=
+nd hence, a project of inhumanism conditioned by the modern system of knowl=
+edge) is the epitome of myopia.</p>
+
+<p>3. If we understand the import of any epistemic vector as a response to =
+two poles of <i>not knowing</i> (ignorance) and <i>knowing not</i> (falsity=
+), we come across the third flaw of the computational algorithm and machini=
+c efficacy. If ignorance is the drive of knowledge, we cannot use forms of =
+producing intelligibility that don&#x27;t have any place for ignorance. Alg=
+orithms cannot work with falsity outside of an a-priori set of frameworks. =
+Their operation in this regard is the little game of &#x27;I know you know =
+that I know that you know <i>ad infinitum</i>&#x27;. The algorithm can only=
+ present falsity (knowing not) according to given and ideal instances of tr=
+uth-values. It does not give us the procedural proof of falsity. Nor can th=
+e algorithm operate with ignorance. You ask an algorithm &#x27;is X the cas=
+e?&#x27;, if the answer is positive then Yes and if it is not then No but i=
+f it doesn&#x27;t know then it cannot remain silent, it has to yield an ans=
+wer. The undecidability of Turing&#x27;s halting problem tells us that ther=
+e is no algorithmic way to say &#x27;I am ignorant&#x27; or &#x27;I don&#x2=
+7;t know&#x27;. Computational algorithms work with the truth-perservation k=
+ernel of classical logic. But the transcendental asymptocity of knowledge i=
+s simultaneously ignorance-perserving and ignorance-mitigating. In fact, ig=
+norance-perservation is the warrant of the infinite task of reason, it main=
+tains reason&#x27;s asymptotic trajectory. Because if there was a canonical=
+ truth already posited, the infinite task of reason would come to an end an=
+d its asymptotic trajectory would be disrupted (as in the case of mysticism=
+). So this calls for new forms of reasoning and non-classical modes of infe=
+rence and epistemic mediation which are capable of preserving as well as mi=
+tigating ignorance. Acceleration, abductive manipulation and epistemico-per=
+formative expriments are examples of these non-classical modes.</p>
+
+<p>So in a nutshell, computational machines cannot embrace the global struc=
+ture of knowledge and develop a navigation with universal orientation. Soph=
+isticated computational methods like quantum computation, cellular automata=
+ can produce -- or more precisely, simulate -- contingencies, critical stat=
+es, etc. but only according to their own highly modified and ideologically =
+consolidated causal and conceptual regimes which have nothing to do with th=
+e physical universe and its principles of continuity and contingency. In th=
+is sense, computation does not render the universe intelligible, it produce=
+s a different form of intelligibility and even objectivity strictly corresp=
+onding to its own causal regime. With that said, I remember I said that the=
+ effectivity of computation should be defended as a useful approach on a lo=
+cal level: we do something that actually works, then the next iterative loo=
+p we do it better and again better, .... This is how we can refine our loca=
+l procedures. But we should avoid blowing this out of proportion as somethi=
+ng that has actually a global valence for thought or knowledge. Otherwise, =
+we are simply cloning the image of the local onto the global.</p>
+
+<p>The second line of assault focused on deficiencies of rigidified account=
+s of normativity and classical modes of epistemic mediation. The goal was t=
+o subsequently find an alternative, but having in mind that we absolutely n=
+eed these standard and perhaps rigidified modes on the local level of navig=
+ation of the concept-space. Accelerative navigation of the concept-space (a=
+s a non-standard form of epistemic mediation) is more of a methodology that=
+ navigates the global ramifications of the concept-space and universally br=
+oadens the scope of knowledge beyond its local ambits. In order to do embar=
+k on this critique, we introduced acceleration as a particular form of gest=
+ure (cf. Chatelet), a designated action capable of introducing focalized vi=
+olent instability and disequilibrium within a certain rate and through a ce=
+rtain synthetic procedure. Also at the same time, warning against metaphysi=
+cally inflating the gestural constitution of acceleration as a mode of epis=
+temic mediation into a vapid form of enactivism.</p>
+
+<p><i>To be continued soon.</i></p>
+
+<div id=3D"a001510more"><div id=3D"more">
+
+</div></div>
+
+<p class=3D"posted">Posted by Reza Negarestani at November 23, 2012  2:17 A=
+M</p>
+
+
+
+
+<br />
+
+<div id=3D"footer">
+
+Copyright =C2=A9 2013 |
+All Rights Reserved | Powered by <a href=3D"http://www.movabletype.org">Mov=
+able Type 5.2.2</a> | Hosted by <a href=3D"http://www.urbanomic.com/">URBAN=
+OMIC</a>
+
+</div>
+</div>
+</div>
+<br />
+
+</body></html>
+------=_Part_72EC01BA_843B6CA5.14CD952E695
+Content-Location: http://blog.urbanomic.com/cyclon/styles-site.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css
+
+body {
+	margin: 0px 0px 20px 0px;
+	background-color: #FFFFFF;
+	text-align: center;
+        }
+
+a:link {
+	    color: #2B2B2B;
+        text-decoration:underline;=20
+        }
+
+a:visited {
+	    color: #2B2B2B;
+        text-decoration:underline;
+        }
+
+a:active {
+	    color: #2B2B2B;
+        text-decoration:underline;
+        }
+
+a:hover {
+	    color: #2B2B2B;
+        text-decoration:underline;
+        }
+
+h1  {
+    margin-top: 30px
+	margin-bottom: 0px;
+    color: #2B2B2B;
+	padding: 0px;
+	text-align: left;
+	font-weight: normal;
+    font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, se=
+rif;
+    }
+
+h2 {
+    color: #2B2B2B;
+	padding: 0px;
+	text-align: left;
+	font-weight: normal;
+    font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, se=
+rif;
+	}
+
+h3 {
+    color: #2B2B2B;
+	padding: 0px;
+	text-align: left;
+	font-weight: normal;
+	}
+
+h4 {
+	margin-left: 75px;
+    margin-right: 75px;
+	text-align: left;
+	font-weight: normal;
+    margin-bottom: 5px;
+    color: #2B2B2B;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: small;
+    }
+
+h5 {
+	color: #2B2B2B;
+    padding: 10px 15px;
+	text-align: justify;
+	color: #2B2B2B;
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: small;
+	text-align: left;
+	font-weight: normal;
+    margin-right: 20px
+	}
+
+#container-title {
+	line-height: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+	padding: 0px;
+	width: 850px;
+	background-color: #FFFFFF;
+	border: 0px solid #FFFFFF;
+	}
+
+#container {
+	line-height: 180%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+	padding: 0px;
+	width: 850px;
+	background-color: #FFFFFF;
+	border: 0px solid #FFFFFF;
+	}
+
+#banner {
+	font-family: Verdana, Arial, sans-serif;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	text-align: left;
+	text-align: justify;
+	padding: 0px 10px 0px 20px;
+	border-bottom: 0px solid #FFFFFF;
+	height: 65px;
+	}
+
+#banner-img {
+	display: none;
+	}
+
+#banner a {
+	color: #2B2B2B;
+	text-decoration: none;
+	}
+
+#banner h1 {
+    padding: 80px 0px 0px 0px;
+	font-size: xx-large;
+	}
+
+#banner h2 {
+    padding: 0px 0px 0px 0px;
+	font-size: small;
+	}
+
+#center {
+	float: left;
+	width: 850px;
+	overflow: hidden;
+	}
+
+.content {
+	padding: 35px 20px 20px 20px;
+	background-color: #FFFFFF;
+	text-align: justify;
+	color: #2B2B2B;
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: small;
+	}
+
+#right {
+	float: left;
+	width: 0px;
+	background-color: #FFFFFF;
+	overflow: hidden;
+	}
+
+.content p {
+	color: #2B2B2B;
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: medium;
+	font-weight: normal;
+	line-height: 150%;
+	text-align: justify;
+	margin-bottom: 10px;
+	}
+
+.content link {
+	color: #2B2B2B;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: small;
+	}
+
+.content blockquote {
+	line-height: 150%;
+    font-weight: normal;
+    font-size: medium;
+	}
+
+.content li {
+	line-height: 150%;
+	}
+
+.content h2 {
+	color: #2B2B2B;
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: small;
+	text-align: left;
+	font-weight: normal;
+	margin-bottom: 10px;
+	}
+
+.content h3 {
+	color: #2B2B2B;
+	font-family: Arial, Verdana, sans-serif;
+	font-size: large;
+	text-align: left;
+	font-weight: normal;
+	margin-bottom: 20px;
+	}
+
+.content h4 {
+	color: #2B2B2B;
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: small;
+	text-align: justify;
+	font-weight: bold;
+    margin-top: 0px;
+	}
+
+.content p.posted {
+	color: #2B2B2B;
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: small;
+	border-top: 0px solid #999999;
+	text-align: justify;
+	margin-bottom: 80px;
+	line-height: normal;
+	padding: 3px;
+	}
+
+.sidebar {
+	padding: 20px;
+	}
+
+#calendar {
+  	line-height: 140%;
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: x-small;
+	padding: 2px;
+	text-align: center;
+	margin-bottom: 30px;
+	}
+
+#calendar table {
+	padding: 2px;
+	border-collapse: collapse;
+	border: 0px;
+	width: 100%;
+	}
+
+#calendar caption {
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: x-small;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: .3em;
+	}
+
+#calendar th {
+	text-align: center;
+	font-weight: normal;
+	}
+
+#calendar td {
+	text-align: center;
+	}
+
+.sidebar h2 {
+	color: #929292;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: x-small;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: .3em;
+	}
+
+.sidebar ul {
+	padding-left: 0px;
+	margin: 0px;
+	margin-bottom: 30px;
+	}
+
+.sidebar ul ul {
+	margin-bottom: 0px;
+	}
+
+.sidebar #categories ul {
+	padding-left: 15px;
+	}
+
+.sidebar li {
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: x-small;
+	text-align: left;
+	line-height: 150%;
+	margin-top: 10px;
+	list-style-type: none;
+	}
+
+.sidebar #categories li {
+	list-style-type: circle;
+	}
+
+.sidebar img {
+	border: 3px solid #454545;
+	}
+
+.photo {
+	text-align: left;
+	margin-bottom: 20px;
+	}
+
+.link-note {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: x-small;
+	line-height: 180%;
+	text-align: left;
+	padding: 2px;
+	margin-bottom: 15px;
+	}
+
+#powered {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: x-small;
+	line-height: 150%;
+	text-align: left;
+	color: #666666;
+	margin-top: 50px;
+	}
+
+#comment-data {
+	float: left;
+	width: 180px;
+	padding-right: 15px;
+	margin-right: 40px;
+    margin-right: 40px;
+	text-align: left;
+	border-right: 1px dotted #BBB;
+	}
+
+textarea[id=3D"comment-text"] {
+	width: 80%;
+	}
+
+.commenter-profile img {
+	vertical-align: middle;
+	border-width: 0;
+	}
+
+	#links {
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: medium;
+    padding: 15px 10px;
+	background-color:#FFFFFF;
+	color:#606060;
+	border-bottom: 0px solid #FFFFFF;
+    border-top: 0px solid #FFFFFF;
+	}
+   =20
+    #links a {
+	color:#606060;
+    text-decoration:none;
+	}
+   =20
+	#links a:hover {
+	text-decoration:underline;
+	}
+   =20
+	#nav {
+	font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: medium;
+    padding: 70px 15px;
+    text-indent: 5pt;
+	background-color:#FFFFFF;
+	color:#606060;
+	border-bottom: 0px solid #FFFFFF;
+    border-top: 0px solid #FFFFFF;
+	}
+=09
+	#nav a {
+	color:#606060;
+    text-decoration:none;
+	}
+   =20
+	#nav a:hover {
+	text-decoration:underline;
+	}
+
+	.footer {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: x-small;
+	margin: 20px;
+    padding: 30px;
+	background-color: #FAFAFA;
+	color:#FAFAFA;
+    border-bottom: 3px;=20
+    solid #FAFAFA;
+	text-align:center;
+	}
+
+	.footer h5 {
+    color: #454545;
+	font-family: Verdana, Arial, sans-serif;
+    margin:10px;
+	font-size: normal;
+	text-align: center;
+	font-weight: bold;
+	}
+
+    .footer link {
+    color: #454545;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+	font-weight: bold;
+	}
+
+    .footer ul {
+	padding-left: 0px;
+	margin: 0px;
+	margin-bottom: 0px;
+	}
+
+	.footer a {
+	color:#F2F2F2;
+	}
+=09
+	.footer a {
+	color:#454545;
+	text-decoration:none;
+	}
+
+	.footer a:hover {
+	text-decoration: underline;
+	}
+
+	.floatimgleft {
+	float:left;
+	margin-top:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+	}
+------=_Part_72EC01BA_843B6CA5.14CD952E695--
